@@ -15,7 +15,7 @@ export default function Nav(props: NavProps) {
   return (
     <nav class="nav">
       <h1>
-        <a href="/">Launchpad</a>
+        <a href="/">Routing</a>
       </h1>
 
       <ToC
