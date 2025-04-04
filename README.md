@@ -1,16 +1,15 @@
 # rt/rtx documentation site
 
-## Development
+Documentation site for Minimal HTTP router library built by FartLabs
 
-1. Go to GitHub repository, and find the green button: Use this Template.
-1. Click on Create a new Repository, this will make a new repository in your
-   profile.
-1. [Install `deno`](https://deno.com/).
-1. Run `deno task start` to start the development server.
-1. Open the presented link to preview the development server. (e.g.
-   <http://localhost:8000/>).
-1. Add markdown files under `./docs`.
-1. Run `deno fmt` and `deno lint` before committing changes.
+## Contribute
+
+1. Fork the repository.
+2. Clone your fork to your local machine.
+3. Make sure you have deno installed. [Install `deno`](https://deno.com/).
+4. Run `deno task start` to start the development server.
+5. Make changes, ensuring to run `deno fmt` before committing.
+6. Create a pull request for your changes.
 
 ## Reference
 
