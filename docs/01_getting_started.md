@@ -20,7 +20,7 @@ deno init
 deno add jsr:@fartlabs/rt
 ```
 
-# Use
+# Use Example
 
 ```ts
 import { Router } from "@fartlabs/rt";
